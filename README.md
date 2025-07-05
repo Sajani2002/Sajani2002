@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajani</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajani2002" alt="sajani2002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sajani2002" alt="sajani2002" /></a> </p>
 
 - 📫 How to reach me **hasupeksha2002@gmail.com**
 
