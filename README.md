@@ -29,9 +29,8 @@ I'm a passionate Full Stack Developer, always learning and exploring new technol
 ---
 
 ### 📫 How to reach me
-[Email](mailto:hasupeksha2002@gmail.com)  
-
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hasupeksha2002@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
 
 ---
 
