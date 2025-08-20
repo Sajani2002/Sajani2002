@@ -1,8 +1,5 @@
 # Hi 👋, I'm Sajani
 
-### 🚀 About Me
-I'm a passionate Full Stack Developer, always learning and exploring new technologies. I love creating clean, functional, and beautiful applications.
-
 ---
 
 ### 📊 GitHub Stats
