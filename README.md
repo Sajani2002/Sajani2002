@@ -19,14 +19,9 @@ I am  a final year Computer Science undergraduate
 [![Getting Started with Ballerina in 5 Minutes](https://ytcards.demolab.com/?id=iU7YmmUkHRY&title=Getting+Started+with+Ballerina+in+5+Minutes&lang=en&timestamp=1764777156&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Getting Started with Ballerina in 5 Minutes")](https://www.youtube.com/watch?v=iU7YmmUkHRY)
 <!-- END YOUTUBE-CARDS -->
 
-### My Blog posts
-<a target="_blank" href="https://medium.com/@hasupeksha2002">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hasupeksha2002/0" alt="Latest Article">
-</a>
-
-<a target="_blank" href="https://medium.com/@hasupeksha2002">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hasupeksha2002/1" alt="Second Latest Article">
-</a>
+# 🛸 My Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajani-upeksha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasupeksha2002) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sajani_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hasupeksha) 
