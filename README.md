@@ -14,5 +14,12 @@ I am  a final year Computer Science undergraduate
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sajani2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<a target="_blank" href="https://github.com/stackoverflow/readme-medium-recent-article">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hasupeksha2002/0" alt="Recent Article 1">
+</a>
+<a target="_blank" href="https://github.com/stackoverflow/readme-medium-recent-article">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hasupeksha2002/1" alt="Recent Article 2">
+</a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajani-upeksha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasupeksha2002) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sajani_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hasupeksha) 
