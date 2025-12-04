@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Sajani
 I am  a final year Computer Science undergraduate
 
 
