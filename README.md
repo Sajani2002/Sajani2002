@@ -21,6 +21,8 @@ I am  a final year Computer Science undergraduate
 
 # 🛸 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I started learning Ballerina](https://medium.com/@hasupeksha2002/why-i-started-learning-ballerina-9aadbc67125e?source=rss-ee2c67036382------2)
+- [What is WSO2 API Manager?](https://medium.com/@hasupeksha2002/what-is-wso2-api-manager-9ce188b30e4b?source=rss-ee2c67036382------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
