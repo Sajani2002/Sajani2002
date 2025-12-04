@@ -3,9 +3,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Sajani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajani2002&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajani2002&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajani2002&theme=radical)
 
 ---
