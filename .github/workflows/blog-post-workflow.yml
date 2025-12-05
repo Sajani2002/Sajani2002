@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rsshub.app/medium/profile/hasupeksha2002"
-          max_post_count: 2
-          template: "<td><a href='$url'><img width='100%' src='$image' /></a><br/><br/><a href='$url'><b>$title</b></a><br/><i>$date</i></td>"
+              # This special URL extracts the images correctly
+              feed_list: "https://medium-rss-v2.vercel.app/feed/@hasupeksha2002" 
+              max_post_count: 2
+              # This forces the script to look for the image in the right place
+              tag_post_image: "image"
+              template: "<td><a href='$url'><img width='100%' src='$image' /></a><br/><br/><a href='$url'><b>$title</b></a><br/><i>$date</i></td>"
