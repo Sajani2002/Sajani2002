@@ -20,11 +20,8 @@ I am  a final year Computer Science undergraduate
 <!-- END YOUTUBE-CARDS -->
 
 # 🛸 My Blog Posts
-<table>
-  <tr>
-<!-- BLOG-POST-LIST:START --><td><div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8;'><a href='https://medium.com/@hasupeksha2002/why-i-started-learning-ballerina-9aadbc67125e?source=rss-ee2c67036382------2'><img width='100%' style='display:block; object-fit: cover;' src='https://wsrv.nl/?url=$image&h=150&w=250&fit=cover' /></a><div style='padding: 10px;'><a href='https://medium.com/@hasupeksha2002/why-i-started-learning-ballerina-9aadbc67125e?source=rss-ee2c67036382------2' style='text-decoration: none; color: inherit;'><b>Why I started learning Ballerina</b></a><br/><br/><span style='color: gray; font-size: 12px;'>Wed Dec 03 2025 5:44 PM</span></div></div></td><td><div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8;'><a href='https://medium.com/@hasupeksha2002/what-is-wso2-api-manager-9ce188b30e4b?source=rss-ee2c67036382------2'><img width='100%' style='display:block; object-fit: cover;' src='https://wsrv.nl/?url=$image&h=150&w=250&fit=cover' /></a><div style='padding: 10px;'><a href='https://medium.com/@hasupeksha2002/what-is-wso2-api-manager-9ce188b30e4b?source=rss-ee2c67036382------2' style='text-decoration: none; color: inherit;'><b>What is WSO2 API Manager?</b></a><br/><br/><span style='color: gray; font-size: 12px;'>Wed Dec 03 2025 9:26 AM</span></div></div></td><!-- BLOG-POST-LIST:END -->
-  </tr>
-</table>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajani-upeksha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasupeksha2002) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sajani_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hasupeksha) 
