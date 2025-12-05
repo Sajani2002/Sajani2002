@@ -21,7 +21,8 @@ I am  a final year Computer Science undergraduate
 
 # 🛸 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Why I started learning Ballerina](https://medium.com/@hasupeksha2002/why-i-started-learning-ballerina-9aadbc67125e?source=rss-ee2c67036382------2)
+- [What is WSO2 API Manager?](https://medium.com/@hasupeksha2002/what-is-wso2-api-manager-9ce188b30e4b?source=rss-ee2c67036382------2)<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajani-upeksha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasupeksha2002) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sajani_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hasupeksha) 
