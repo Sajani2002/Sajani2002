@@ -12,14 +12,9 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # 1. Use the Official Medium Feed (It will never crash)
+          # The official reliable feed
           feed_list: "https://medium.com/feed/@hasupeksha2002"
-          
-          # 2. Extract the image from the post content
-          extract_image_from_content: true
-          
-          # 3. Use a special image proxy (wsrv.nl) to fix the broken images
-          template: "<td><div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8;'><a href='$url'><img width='100%' style='display:block; object-fit: cover;' src='https://wsrv.nl/?url=$image&h=150&w=250&fit=cover' /></a><div style='padding: 10px;'><a href='$url' style='text-decoration: none; color: inherit;'><b>$title</b></a><br/><br/><span style='color: gray; font-size: 12px;'>$date</span></div></div></td>"
-          
-          # 4. Limit to 2 posts
-          max_post_count: 2
+          # Showing 5 posts looks better as a list
+          max_post_count: 5
+          # Simple, clean, bulleted list format
+          template: "$newline- [$title]($url)"
