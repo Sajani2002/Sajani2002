@@ -1,5 +1,4 @@
-# Hi 👋, I'm Sajani
-I am  a final year Computer Science undergraduate
+# Hi, I'm Sajani
 
 
 
